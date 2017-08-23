@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TGP","妈的，李老板，有哒哒哒哒哒冒蓝火的加特林吗？");
         //方清正
         //方清正
+        Log.e("", "onCreate:aaaaaaaaaaaaaaaaaaaaaaaaaaaaa ");
     }
 }
