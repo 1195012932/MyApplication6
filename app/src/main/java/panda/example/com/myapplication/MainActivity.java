@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //黄振通
         //第二次
         //第一次会有点疼
+        System.out.println("hahahahhaahhahahahhahaahahha");
     }
 }
