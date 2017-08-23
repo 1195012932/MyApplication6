@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //李鑫
         //刘鹏辉
+        //黄振通
     }
 }
