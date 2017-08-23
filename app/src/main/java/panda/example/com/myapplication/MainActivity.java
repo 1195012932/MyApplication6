@@ -28,6 +28,6 @@ public class MainActivity extends AppCompatActivity {
         Intent its=new Intent(MainActivity.this,MainActivity.class);
         startActivity(it);
         Toast.makeText(this, "jajfid", Toast.LENGTH_SHORT).show();
-        Log.e("", "李鑫: 聊天开始" );
+        Log.e("", "李鑫: 聊天开始" );  Log.e("", "李鑫: 聊天开始" );
     }
 }
