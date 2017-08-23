@@ -23,5 +23,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("", "onCreate:aaaaaaaaaaaaaaaaaaaaaaaaaaaaa ");
         Intent it=new Intent(MainActivity.this,MainActivity.class);
         startActivity(it);
+        Intent its=new Intent(MainActivity.this,MainActivity.class);
+        startActivity(it);
     }
 }
