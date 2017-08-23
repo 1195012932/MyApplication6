@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Intent its = new Intent(MainActivity.this, MainActivity.class);
         startActivity(it);
         Toast.makeText(this, "jajfid", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "社会黄", Toast.LENGTH_SHORT).show();
     }
 
     private void initView() {
