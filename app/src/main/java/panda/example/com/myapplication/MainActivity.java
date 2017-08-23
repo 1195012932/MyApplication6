@@ -28,5 +28,6 @@ public class MainActivity extends AppCompatActivity {
         Intent its=new Intent(MainActivity.this,MainActivity.class);
         startActivity(it);
         Toast.makeText(this, "jajfid", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "社会黄", Toast.LENGTH_SHORT).show();
     }
 }
