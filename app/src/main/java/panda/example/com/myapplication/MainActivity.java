@@ -17,8 +17,7 @@ public class MainActivity extends AppCompatActivity {
         //第一次会有点疼
         System.out.println("hahahahhaahhahahahhahaahahha");
         Log.e("TGP","妈的，以后谁惹我我就搞Bug");
-
-        Log.e("TAG", "onCreate: 呵呵哒");
-
+        //方清正
+        //方清正
     }
 }
