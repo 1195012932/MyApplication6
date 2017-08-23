@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         //方清正
         //方清正
         Log.e("", "onCreate:aaaaaaaaaaaaaaaaaaaaaaaaaaaaa ");
+        Log.e("", "onCreate:我曹，李老板，你这aaaaa是什么意思 ");
     }
 }
